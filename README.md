@@ -1,3 +1,5 @@
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/barahana20" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @barahana20 on GitHub">Follow @barahana20</a>
 <h1 align="center">Hi 👋, I'm barahana</h1>
 <h3 align="center">A passionate back-end developer from Korea</h3>
 
