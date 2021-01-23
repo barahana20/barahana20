@@ -1,3 +1,4 @@
+<head>
 <h1 align="center">Hi 👋, I'm barahana</h1>
 <h3 align="center">A passionate back-end developer from Korea</h3>
 
@@ -32,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barahana20&show_icons=true&locale=en" alt="barahana20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barahana20&" alt="barahana20" /></p>
-
+</head>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/barahana20" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @barahana20 on GitHub">Follow @barahana20</a>
 
