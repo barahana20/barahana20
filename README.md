@@ -4,6 +4,13 @@
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/barahana20" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @barahana20 on GitHub">Follow @barahana20</a>
 
+</body>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js" > </script>
+
+</head>
+
 <h1 align="center">Hi 👋, I'm barahana</h1>
 <h3 align="center">A passionate back-end developer from Korea</h3>
 
@@ -39,11 +46,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barahana20&" alt="barahana20" /></p>
 
-</body>
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js" > </script>
-
-</head>
 
 
