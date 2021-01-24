@@ -39,9 +39,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barahana20&" alt="barahana20" /></p>
 
+</body>
+
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js" > </script>
-</body>
+
 </head>
 
 
