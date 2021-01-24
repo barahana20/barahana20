@@ -1,5 +1,7 @@
 
 [![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/barahana20/repository/subscription)
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+
 <h1 align="center">Hi 👋, I'm barahana</h1>
 <h3 align="center">A passionate back-end developer from Korea</h3>
 
